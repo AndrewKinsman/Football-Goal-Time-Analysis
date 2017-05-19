@@ -27,12 +27,6 @@ library(tidyverse)
 ## lag():    dplyr, stats
 ```
 
-```r
-setwd("C:\\Users\\aphki\\Documents\\R_Working_Directory\\Football_Analysis")  # your directory will be 
-# different, so this needs to be set to wherever the csv files are
-# stored
-```
-
 ### DATA PREPARATION ###
 
 
